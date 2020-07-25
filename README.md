@@ -8,7 +8,7 @@ Users can (1) signup, (2) login through a two-factor authentication system using
 
 ## Installation 
 
-Please unzip the file named secretnote.zip or follow the below instructions. 
+Please unzip the file named **secretnote.zip** or follow the below instructions. 
 
 **1. Download File** 
 
