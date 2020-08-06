@@ -6,6 +6,12 @@ Secret Note is a simple web-server project to build a two-factor authentication 
 
 Users can (1) signup, (2) login through a two-factor authentication system using a text message, and (3) logout.  
 
+## Detailed Demo
+
+
+![custom – 1](https://user-images.githubusercontent.com/68700599/89497964-f71fd400-d782-11ea-9858-dd9d4ba3a9a5.png)
+(http://img.youtube.com/vi/Z_nw2LudkYE/0.jpg)](https://youtu.be/KGwOUHUjs-k "Secret_Note_Demo")
+
 ## Installation 
 
 Please unzip the file named **secretnote.zip** or follow the below instructions. 
