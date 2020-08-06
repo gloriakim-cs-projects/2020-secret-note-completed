@@ -62,6 +62,10 @@ The list of references for building this project is shown below:
 
 11) [Twilio](https://www.youtube.com/watch?v=VMtWAphzkdg) 
 
+## Author
+
+With the help from **Contributing** above, this work is solely done by Gloria Kim.
+
 ## License 
 
 [MIT](https://choosealicense.com/licenses/mit/) 
