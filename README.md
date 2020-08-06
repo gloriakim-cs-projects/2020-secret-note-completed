@@ -8,9 +8,15 @@ Users can (1) signup, (2) login through a two-factor authentication system using
 
 ## Detailed Demo
 
+[![![custom – 1](https://user-images.githubusercontent.com/68700599/89497964-f71fd400-d782-11ea-9858-dd9d4ba3a9a5.png)](http://img.youtube.com/vi/KGwOUHUjs-k/0.jpg)](http://www.youtube.com/watch?v=KGwOUHUjs-k "Secret_Note_Thumbnail")
 
-![custom – 1](https://user-images.githubusercontent.com/68700599/89497964-f71fd400-d782-11ea-9858-dd9d4ba3a9a5.png)
-(http://img.youtube.com/vi/Z_nw2LudkYE/0.jpg)](https://youtu.be/KGwOUHUjs-k "Secret_Note_Demo")
+## First Design Draft
+
+![first_design_draft](https://user-images.githubusercontent.com/68700599/89498149-50880300-d783-11ea-9a7e-9cdf2a942534.png)
+
+## Final Design Draft
+
+![image](https://user-images.githubusercontent.com/68700599/89498242-7dd4b100-d783-11ea-8982-0b7975d8b58a.png)
 
 ## Installation 
 
